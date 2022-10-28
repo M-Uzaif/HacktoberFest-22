@@ -1,16 +1,11 @@
+# Resturant Menu System:
 
-# Clinical Record and Billing System:
+This is a order taking menu system programmed using C++.
 
-This Project is record entering and bill generating programm, programmed using C++(Classes, Structures, Functions, Loops) and is extented attaching a file system with it for bill generating purpose.
+📌 This program first displays a menu, the user can then select according to their choice from available options.
 
-🏷 The program works in the following manner:
+📌 Then the user has to enter the quantity of item they have selected.
 
-📌 It Displays a menu where the user is asked whether to:
+📌 After making all the selections, the user can complete their order.
 
-⭐ Input the data/records by entering their Name, DOB, Gender, Age, Date of appointment and assigning them an ID number.
-
-📌 It then asks the user to enter the checkup they need and then assigns them the doctor according to the checkup selected.
-
-📌 This program prints the record from the data whether by Age, Gender, ID, Assigned Doctor's name or The Patient's name.
-
-📌 In the end it prints the recipt of the patient with their details and calculates the bill according to their treatment, number of day stayed, hospital charges per day(Room charges, Medications, others). 
+📌 The amount of orders and the bill to be payed is displayed at the end.
