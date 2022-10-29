@@ -1,4 +1,4 @@
-# Resturant Menu System:
+# Restaurant Menu System:
 
 This is a order taking menu system programmed using C++.
 
